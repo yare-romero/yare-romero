@@ -2,7 +2,7 @@
   
 <h1 align="center"> Hi I'm Yarenni Romero 👋
 </div>
-
+<image src="https://www.canva.com/design/DAF85UHGOkU/hurl7T6H6AK10Hsf1-nj5Q/edit?utm_content=DAF85UHGOkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 **yare-romero/yare-romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
