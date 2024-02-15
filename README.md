@@ -6,7 +6,7 @@
 ![Hi](https://github.com/yare-romero/yare-romero/blob/main/canva%20banner.png)
 
 
-## Sobre mi
+## About me
 
 - 📈 Data Analyst 
 - 🤯 I’m currently learning about Machine Learning skills 
@@ -16,4 +16,14 @@
 - 📫 How to reach me: yareromerovargas.s8@gmail.com
 - ⛸  I love roller skating. 
 
-## Proyecto SEGMENTACIÓN UTILIZANDO EL MÉTODO RFM 
+## Amazon Sales 
+# Dashboard using Tableau 
+![Amazon Sales](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Data-Lab.PNG)
+
+## Relative Risk
+# Dashboard using Looker Studio
+![Relative Risk](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Riesgo%20relativo.jpg)
+
+## Spotify Streams 
+# Dashboard using Power BI
+![Spotify](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Proyecto%20Hipotesis.jpg)
