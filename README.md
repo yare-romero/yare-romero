@@ -3,8 +3,6 @@
 <h1 align="center"> Hi I'm Yarenni Romero 👋
 </div>
 
-<img src="https://www.canva.com/design/DAF85UHGOkU/bf_-tENfqZp_5zd4YgyPzw/view?utm_content=DAF85UHGOkU&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-<!--
 **yare-romero/yare-romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
