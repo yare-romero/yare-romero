@@ -2,7 +2,8 @@
   
 <h1 align="center"> Hi I'm Yarenni Romero 👋
 </div>
-!(https://github.com/yare-romero/yare-romero/blob/main/canva%20banner.png)
+<![Hi](https://github.com/yare-romero/yare-romero/blob/main/canva%20banner.png)>
+[Logo de mi proyecto](https://github.com/tu-usuario/tu-repositorio/blob/main/ruta-a-tu-imagen.png
 
 **yare-romero/yare-romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
