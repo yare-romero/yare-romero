@@ -16,14 +16,14 @@
 - 📫 How to reach me: yareromerovargas.s8@gmail.com
 - ⛸  I love roller skating. 
 
-## Amazon Sales 
-# Dashboard using Tableau 
+# Amazon Sales 
+## Dashboard using Tableau 
 ![Amazon Sales](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Data-Lab.PNG)
 
-## Relative Risk
-# Dashboard using Looker Studio
+# Relative Risk
+## Dashboard using Looker Studio
 ![Relative Risk](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Riesgo%20relativo.jpg)
 
-## Spotify Streams 
-# Dashboard using Power BI
+# Spotify Streams 
+## Dashboard using Power BI
 ![Spotify](https://github.com/yare-romero/yare-romero/blob/main/Dashboard%20Proyecto%20Hipotesis.jpg)
