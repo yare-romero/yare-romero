@@ -15,3 +15,5 @@
 - 📊 TABLEAU|POWER BI|LOOKER STUDIO|
 - 📫 How to reach me: yareromerovargas.s8@gmail.com
 - ⛸  I love roller skating. 
+
+## Proyecto SEGMENTACIÓN UTILIZANDO EL MÉTODO RFM 
