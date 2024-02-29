@@ -10,11 +10,11 @@
 
 - 📈 Data Analyst 
 - 🤯 I’m currently learning about Machine Learning skills 
-- 🤓 I am a fast learner
+- 🤓 I am a quick learner
 - 👩‍💻 SQL| PYTHON| GOOGLE COLAB| BIGQUERY|
 - 📊 TABLEAU|POWER BI|LOOKER STUDIO|
 - 📫 How to reach me: yareromerovargas.s8@gmail.com
-- ⛸  I love roller skating. 
+- ⛸  I love roller blading. 
 
 # Amazon Sales 
 ## Dashboard using Tableau 
